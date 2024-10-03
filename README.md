@@ -1,5 +1,7 @@
-## Hi there 👋
-## i am cathylinlin,i like music game. i also like math ,welcome to visit me
+## glad 2 c u
+## i am cathylinlin
+i like music game. i also like math ,welcome to visit me
+## c u next time
 <!--
 **cathylinlin/cathylinlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
