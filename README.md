@@ -1,18 +1,10 @@
-## glad 2 c u
-## i am cathylinlin
-i like music game. i also like math ,welcome to visit me
-## c u next time
-<!--
-**cathylinlin/cathylinlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Glad 2 C U  
+## I am rrCathy  
+I major in **CS**.   
+I also study **Math** and **Phys** at the same time.   
+Interested in algebra, topology, and modern physics.   
+Currently doing cross-domain Python development.   
+If you are interested, feel free to contact me.  
 
-Here are some ideas to get you started:
+## C U next time
 
-- 🔭 I’m currently working on a university
-- 🌱 I’m currently learning ctf,math
-- 👯 I’m looking to collaborate on web
-- 🤔 I’m looking for help with you
-- 💬 Ask me about me
-- 📫 How to reach me: qq 1457233284
-- 😄 Pronouns: maybe have
-- ⚡ Fun fact: music game
--->
