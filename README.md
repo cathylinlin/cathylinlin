@@ -1,5 +1,5 @@
 ## Glad 2 C U  
-## I am rrCathy  
+## I am Cathylinlin  
 I major in **CS**.   
 I also study **Math** and **Phys** at the same time.   
 Interested in algebra, topology, and modern physics.   
